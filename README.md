@@ -1,2 +1,2 @@
 # hello-world
-First sample application
+My first sample application
